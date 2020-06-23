@@ -32,7 +32,7 @@ Steps that are performed:
 
 
 
-Example of output:(HPVchimera_results.txt)
+Example of output: (HPVchimera_results.txt)
 
     Name of 1st contig:     HPV85, no chimera detected. 
     Name of 2nd contig:     Chimera: Contig sequence does not show >85% sequence identity to any HPV type given.
