@@ -3,11 +3,12 @@
 This script aims to check putative human papillomavirus (HPV) contigs for chimera presence.
 
 Requirements for the script:
-    Fasta file with contigs´ sequences
-    HPVdatabase
-    Nucleotide-Nucleotide BLAST 2.10.1+
+   a)  Fasta file with contigs´ sequences
+   b) HPVdatabase
+   c)  Nucleotide-Nucleotide BLAST 2.10.1+
 
 You will find all files needed for the database, however, you can create it yourself with the following command:
+    
     makeblastdb -in HPV_COMPLETE_GENOMES.fasta -parse_seqids -blastdb_version 5  -title "HPVcomplete" -dbtype nucl
 
 This script requires three parameters as input.
