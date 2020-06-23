@@ -34,10 +34,10 @@ Steps that are performed:
 
 Example of output:(HPVchimera_results.txt)
 
-Name of 1st contig:     HPV85, no chimera detected.
-Name of 2nd contig:     Chimera: Contig sequence does not show >85% sequence identity to any HPV type given.
-Name of 3rd contig:     Chimera: The top hit alignment does not cover >60% of contigs sequence.
-Name of 4th contig:     Chimera: Contigs segments dont have same TopHit.
-Name of 5th contig:     Chimera: Contigs segments dont have same TopHit as the total contig.
-Name of 6th contig:     Chimera: At least one segments sequence shows <75% coverage.
-Name of 7th contig:     Chimera: Contigs segment show <90% identity and >5% difference with another segment.
+    Name of 1st contig:     HPV85, no chimera detected. 
+    Name of 2nd contig:     Chimera: Contig sequence does not show >85% sequence identity to any HPV type given.
+    Name of 3rd contig:     Chimera: The top hit alignment does not cover >60% of contigs sequence.
+    Name of 4th contig:     Chimera: Contigs segments dont have same TopHit.
+    Name of 5th contig:     Chimera: Contigs segments dont have same TopHit as the total contig.
+    Name of 6th contig:     Chimera: At least one segments sequence shows <75% coverage.
+    Name of 7th contig:     Chimera: Contigs segment show <90% identity and >5% difference with another segment.
