@@ -42,5 +42,6 @@ Name of 5th contig:     Chimera: Contigs segments dont have same TopHit as the t
 Name of 6th contig:     Chimera: At least one segments sequence shows <75% coverage
 Name of 7th contig:     Chimera: Contigs segment show <90% identity and >5% difference with another segment
 
+
  
 
