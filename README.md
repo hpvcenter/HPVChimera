@@ -12,13 +12,13 @@ You will find all files needed for the database, however, you can create it your
     makeblastdb -in HPV_COMPLETE_GENOMES.fasta -parse_seqids -blastdb_version 5  -title "HPVcomplete" -dbtype nucl
 
 This script requires three parameters as input.
-1. Fasta file with your contigs´s sequences
-2. Workspace folder
-3. HPVdatabase (HPV_COMPLETE_GENOMES.fasta)
+1. Fasta file with your contigs´s sequences (Full Path)
+2. Workspace folder (Full Path)
+3. HPVdatabase (HPV_COMPLETE_GENOMES.fasta) (Full Path)
 
 Example
 
-./HPVChimera.sh contigssequences.fasta /$workspacefolder HPVdatabase.fasta
+./HPVChimera.sh /PATH/contigssequences.fasta /PATH/$workspacefolder /PATH/HPVdatabase.fasta
 
 After being executed, you will see the message "Check result in: /$workspacefolder/chimera/result.txt"
 
