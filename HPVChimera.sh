@@ -248,9 +248,9 @@ help()
   echo "***********************************"
   echo -e "Chimera Check"
   echo -e "Three arguemtns: "
-  echo -e "1. Assembled contigs to analyze in fasta file"
-  echo -e "2. Folder to work"
-  echo -e "3. HPV database fasta file."
+  echo -e "1. Assembled contigs to analyze in fasta file. Full Path."
+  echo -e "2. Folder to work. Full Path."
+  echo -e "3. HPV database fasta file. Full Path."
   echo -e "''''''''''''''''''"
 }
 header()
